@@ -4,7 +4,7 @@
   <img src="https://media.licdn.com/dms/image/v2/D4D12AQFAEA4kuPV1lg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721202639246?e=1751500800&v=beta&t=brXUumMlPriNDvTm-ekvD16PkNEc6sF5kGt_vY2mDDE" 
        alt="Cover Image" 
        width="100%" 
-       height="300px" 
+       height="400px" 
        >
 </p>
 
