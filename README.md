@@ -1,12 +1,4 @@
 <h2 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-  
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D12AQFAEA4kuPV1lg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721202639246?e=1751500800&v=beta&t=brXUumMlPriNDvTm-ekvD16PkNEc6sF5kGt_vY2mDDE" 
-       alt="Cover Image" 
-       width="100%" 
-       height="400px" 
-       >
-</p>
 
 ## 💫 About Me
 <p>Passionate about turning ideas into intuitive interfaces. As a frontend developer in training, I enjoy bringing projects to life through technology and design. Constantly learning to create experiences that connect and inspire.</p>
@@ -14,7 +6,7 @@
 <p>  
       🧠 I’m looking to collaborate on challenging and interesting projects.<br>
       🌱 Currently expanding my skills in React, Laravel, and PHP.<br>
-      👨‍💻 Check out my portfolio <a href="https://samuel-pacheco.vercel.app" target="_blank">here</a>.<br>
+      💼 Check out my portfolio <a href="https://samuel-pacheco.vercel.app" target="_blank">here</a>.<br>
       ⚡ In my free time, I enjoy watching TV series or taking walks with my dog.
 </p>
 
